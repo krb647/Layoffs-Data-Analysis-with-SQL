@@ -4,7 +4,7 @@
 This project involves data cleaning and exploratory data analysis (EDA) on a layoffs dataset. The objective is to prepare the data for analysis and gain insights into layoffs trends and patterns.
 
 ## Technologies Used
-- SQL
+- SQL (MySQL)
 
 ## Dataset
 The dataset contains information about layoffs, including company name, location, industry, total laid-off employees, percentage laid off, date, stage, country, and funds raised in millions.
