@@ -9,7 +9,6 @@ SELECT * FROM layoffs;
 
 SELECT * FROM layoffs_staging;
 
--- now when we are cleaning data we usually follow a few steps
 -- 1. check for duplicates and remove any
 -- 2. standardize data and fix errors
 -- 3. Look at null values and see what 
