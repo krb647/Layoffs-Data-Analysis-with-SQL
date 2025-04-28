@@ -1,4 +1,4 @@
-# Layoffs-Data-Analysis-with-SQL
+# Layoffs_Trend_Analysis
 
 ## Project Overview
 This project involves data cleaning and exploratory data analysis (EDA) on a layoffs dataset. The objective is to prepare the data for analysis and gain insights into layoffs trends and patterns.
